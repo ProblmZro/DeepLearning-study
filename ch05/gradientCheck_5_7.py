@@ -3,7 +3,6 @@ sys.path.append(os.pardir)
 sys.path.append("/Users/jaymoon/Desktop/coding/deep_learning/")
 import numpy as np
 from dataset.mnist import load_mnist
-# sys.path.append("/Users/jaymoon/Desktop/coding/deep_learning/dataset/mnist"); import load_mnist
 from backprop_5_7 import TwoLayerNet
 
 # 기울기 구하는 방법 두가지
