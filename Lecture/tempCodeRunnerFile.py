@@ -1,0 +1,5 @@
+    # plt.title(f"Learning Process for {gate_type} Gate")
+    # plt.xlabel("Iteration")
+    # plt.ylabel("Error Rate(%)")
+    # plt.plot(error_percentage, 'or')
+    # plt.show()
